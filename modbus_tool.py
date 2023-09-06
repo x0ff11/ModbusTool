@@ -12,7 +12,7 @@ END = "\033[0m"
 
 def banner():
     print("")
-    print("**** PyModbus Scanner **** ")
+    print("**** PyModbus Modbus TCP Register R/W Utility **** ")
     print("")
 
 
